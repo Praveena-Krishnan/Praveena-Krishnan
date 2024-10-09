@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Praveena Krishnan</h1>
 <h3 align="center">A passionate AIML Student from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=praveena-krishnan&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="praveena-krishnan" /> 
-</p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=praveena-krishnan&theme=dark" alt="praveena-krishnan" />
-  </a> 
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=Praveena-Krishnan&icon=10&color=12)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [Publisher Portal](https://github.com/NagiPragalathan/Xtracut_Log_Management_System)
 
@@ -133,6 +127,12 @@
     </td>
   </tr>
 </table>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=praveena-krishnan&theme=dark" alt="praveena-krishnan" />
+  </a> 
+</p>
 
 <br/><br/>
 

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Large Language Models , PowerBI , RLHF**
 
-- 💬 Ask me about **Python | Machine Learning: Supervised Learning, Unsupervised Learning | Deep Learning: Neural Networks, LLM, RLHF**
+- 💬 Ask me about **Python | Machine Learning: Supervised Learning, Unsupervised Learning | Deep Learning: Neural Networks, LLM, RLHF | PowerBI**
 
 - 📫 How to reach me **praveenakrishnan2003@gmail.com**
 

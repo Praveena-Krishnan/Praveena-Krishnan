@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Praveena-Krishnan&icon=10&color=12)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [Publisher Portal](https://github.com/NagiPragalathan/Xtracut_Log_Management_System)
+- 🔭 I’m currently working on [AutoMarketer](https://github.com/Praveena-Krishnan/Automarketer.git)
 
 - 🌱 I’m currently learning **Large Language Models , PowerBI , RLHF**
 
